@@ -1,0 +1,130 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+section {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.header-sec {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    background-color: skyblue;
+
+}
+.header-date  {
+    width: 25%;
+    
+}
+.header-mail  {
+    width: 25%;
+    
+}
+.header-otime  {
+    width: 25%;
+}
+.header-number {
+    width: 25%;
+}
+.header-sec p {
+    margin-left: 40px;
+}
+.featured-img img {
+    width: 100%;
+    height: 520px;
+}
+.devider {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(180, 183, 185);
+}
+.Opinion-tittle h3 {
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.Opinion-tittle hr {
+    padding: 0px;
+}
+.opinion-sec {
+    display: flex;
+    width: 100%;
+}
+.opinion-img-position {
+    display: flex;
+    width: 25%;
+    
+}
+.opinion-img-position h3 {
+    font-style: italic;
+}
+.opinion-img-position img {
+    margin-right: 10px;
+    border-radius: 50px ;
+}
+.latest-news {
+    display: flex;
+    font-size: 20px;
+}
+.latest-news-area {
+    width: 25%;
+}
+.ads-banner img {
+    width: 300px;
+    height: 300px;
+}
+.latest-box img {
+    width: 300px;
+    height: 230px;
+}
+.latest-news-thmb {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.latest-thmb-sec {
+    display: flex;
+    width: 25%;
+}
+.latest-thmb-text {
+    margin-left: 14px;
+    text-align: justify;
+    margin-right: 17px;
+}
+.editor-picks-area {
+    display: flex;
+}
+.editor-picks-sec {
+    width: 25%;
+}
+.editor-picks-sec img {
+    width: 100%;
+}
+.news-cat-hilighter {
+    color: royalblue;
+    font-weight: 500;
+}
+.news-title {
+    font-size: 20px;
+    font-weight: 500;
+}
+.editor-picks-headline {
+    display: flex;
+    width: 100%;
+}
+.editor-picks-title {
+    width: 25%;
+    border-top: 2px rgb(24, 130, 230) solid;
+    border-bottom: 1px rgb(180, 176, 176) solid;
+    margin: 5px;
+    font-weight: 700;
+}
+.editor-picks-headline {
+    margin-bottom: 12px;
+}
+.full-width-ads-section {
+    width: 100%;
+    background-color: silver;
+}
